@@ -1,0 +1,10 @@
+[alias]
+  s = status
+  b = branch
+  co = checkout
+[core]
+  editor = vim
+  excludesfile = ~/.global.gitignore
+[user]
+  email = whatever@example.com
+  name = ryo
