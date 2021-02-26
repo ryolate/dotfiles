@@ -11,7 +11,7 @@ SAVEHIST=1000000
 export EDITOR=vim
 
 # see EXPANSION OF PROMPT SEQUENCES in man zshmisc.
-export PROMPT="%B%F{green}%n@%m %F{blue}%T %b%f[%1~]
+export PROMPT="%B%F{green}%n %F{blue}%T %b%f[%1~]
 %F{blue}->%B %# %b%f"
 
 if [ -f ~/.zshrc.user ]; then
