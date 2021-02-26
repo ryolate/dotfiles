@@ -8,3 +8,5 @@
 [user]
   email = whatever@example.com
   name = ryo
+[init]
+  defaultBranch = main
